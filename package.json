@@ -1,0 +1,19 @@
+{
+  "name": "framelessnode",
+  "version": "1.0.0",
+  "description": "Test of creating a simple SPA without a framework using Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasellers/FramelessNode.git"
+  },
+  "author": "Lewis A. Sellers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasellers/FramelessNode/issues"
+  },
+  "homepage": "https://github.com/lasellers/FramelessNode#readme"
+}
